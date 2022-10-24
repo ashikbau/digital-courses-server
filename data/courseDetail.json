@@ -1,0 +1,39 @@
+[
+    {
+      "id": "635708d9a2b2a0590df369dd",
+      "image": "https://ibb.co/qYy7W1k",
+      "name": "SAP Courses",
+      "description" : "By the completion of this online training course, you will be fully versed, and capable of working with SAP systems.Learn the basics of the SAP system with clear video demonstrations"
+    },
+    {
+      "id": "635708d9f0386be7664cdec7",
+      "image": "https://ibb.co/mTFqH8m",
+      "name": "Python Courses",
+      "description": "Learn important data structures for Python programming. This Course will give deep insights for Python web progrmming."
+    },
+    
+    {
+      "id": "635708d9193f7a34e6363e3a",
+      "image": "https://ibb.co/kDhhbQv",
+      "name": "Statistics Courses",
+      "description": "Learn Statistics online at your own pace. Start today and improve your skills. This Course give clear understanding of Statistical analysis and data structure."
+    },
+    {
+      "id": "635708d9da0bca6c457503c3",
+      "image": "https://ibb.co/5TcJ1G7",
+      "name": "Business Administration Courses",
+      "description": "Drive Positive Change in Your Business With This Digital Courses Programme. Secure Your Place. Learn How Sustainability Strategies Can Create Long-Term Value on This Online Programme"
+    },
+    {
+      "id": "635708d9d61185ac038e8c23",
+      "image": "https://ibb.co/8K51ZdZ",
+      "name": "History Courses",
+      "description": "History courses investigate ancient and modern events and social trends. Explore and history for increase your knowledge."
+    },
+    {
+      "id": "635708d9779448e20b9c90a8",
+      "image": "https://ibb.co/dJDQ8H5",
+      "name": "Travel and Tourism Courses",
+      "description":"By taking this course, you will become familiar with several new technologies and sustainable development strategies to maximise your career opportunities."
+    }
+  ]
