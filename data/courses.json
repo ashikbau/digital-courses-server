@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "SAP Courses"
+    },
+    {
+      "id": "02",
+      "name": "Python Courses"
+    },
+    {
+      "id": "03",
+      "name": "Statistics Courses"
+    },
+    {
+      "id": "04",
+      "name": "Business Administration Courses"
+    },
+    {
+      "id": "05",
+      "name": "History Courses"
+    },
+    {
+      "id": "06",
+      "name": "Travel and Tourism Courses"
+    }
+  ]
