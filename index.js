@@ -39,12 +39,12 @@ app.get('/courses/:id', (req, res) => {
 
 
 app.get('/', (req, res) => {
-    res.send('News API Running');
+    res.send('Courses API Running');
 });
 
 
 
 
 app.listen(port, () => {
-    console.log('Dragon News Server running on port', port);
+    console.log('Digital courses Server running on port', port);
 })
